@@ -1,6 +1,6 @@
-👋 Hi, I’m Chunky!
-👀 I’m interested in Full Stack Engineering.
-🌱 I’m currently learning Front (JS, HTML)
+👋 Hi, I’m Chunky!<br>
+👀 I’m interested in Full Stack Engineering.<br>
+🌱 I’m currently learning Front (JS, HTML)<br>
 
 <!---
 chunsg0922/chunsg0922 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
